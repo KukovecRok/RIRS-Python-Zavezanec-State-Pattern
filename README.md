@@ -1,5 +1,7 @@
 # RIRS-Python-Zavezanec-State-Pattern
 
+This was a school exercise.
+
 This is a simple implementation of the state pattern in Python. It is created from register of slovenian companies. 
 TXT file is imported, read with pandas, creates class --> objects and appends them to list using state pattern. 
 
